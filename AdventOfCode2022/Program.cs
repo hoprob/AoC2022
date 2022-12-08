@@ -5,9 +5,9 @@ using AdventOfCode2022.Day4;
 using AdventOfCode2022.Day5;
 using AdventOfCode2022.Day6;
 using AdventOfCode2022.Day7;
+using AdventOfCode2022.Day8;
 
-
-var day= new Day1();
+var day= new Day8();
 day.Run();
 
 
